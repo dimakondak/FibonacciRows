@@ -11,7 +11,7 @@ import org.apache.logging.log4j.Logger;
 public class Run {
     private static final Logger log = LogManager.getLogger();
     private static final String PATH = "src/main/resources/";
-    private static final String FILENAME = "text.txt";
+    private static final String FILENAME = "source.txt";
     private static final String RESULT_PATH = "result/";
     private static final String RESULT_FILENAME = "output.txt";
 
